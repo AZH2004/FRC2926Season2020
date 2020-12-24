@@ -1,4 +1,4 @@
-# FRC2926Season2020
+# Message Board
 The following links provide potentially useful information for programming the radio. 
 
 ## Development Training
